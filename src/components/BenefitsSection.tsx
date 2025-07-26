@@ -38,7 +38,7 @@ export const BenefitsSection = () => {
           <div className="order-1 lg:order-2 flex justify-center">
             <div className="relative w-full max-w-md">
               <img 
-                src="/4b6518757d69718f2e6488f9d917be90dadaresized.webp"
+                src="4b6518757d69718f2e6488f9d917be90dadaresized.webp"
                 alt="Ilustración de beneficios"
                 className="w-full rounded-lg shadow-2xl shadow-purple-500/20"
                 loading="lazy"
